@@ -1,9 +1,9 @@
 # Gait-Analysis-Using-3D-CNN
 ---
-title: "README - Gait Recognition with 3D CNN"
-author: "Saba Gul"
-date: "2/10/2024"
-output: github_document
+Title: "README - Gait Recognition with 3D CNN"
+Author: "Saba Gul"
+Date: "2/10/2024"
+Output: github_document
 ---
 
 # Gait Recognition with 3D CNN
