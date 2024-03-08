@@ -1,11 +1,3 @@
-# Gait-Analysis-Using-3D-CNN
----
-Title: "README - Gait Recognition with 3D CNN"
-Author: "Saba Gul"
-Date: "2/10/2024"
-Output: github_document
----
-
 # Gait Recognition with 3D CNN
 
 ## Introduction
@@ -17,9 +9,10 @@ Gait recognition is a promising avenue for identification and authentication due
  ![Gait Analysis1](images/Proposed_framework.png "3D Convolutional Neural Network for Inter-class Subject Identification")
 
 - **Dataset**: Evaluation was conducted on two publicly available datasets, OULP and CASIA-B, which exhibit substantial gender and age diversity.
-![Gait Analysis2](images/CASIA-B_Dataset.png "Data-set Specifications CASIA-B")
+  
+ ![Gait Analysis2](images/CASIA-B_Dataset.png "Data-set Specifications CASIA-B")
 
-![Gait Analysis3](images/OULP_Dataset.png "Data-set Specifications OULP")
+ ![Gait Analysis3](images/OULP_Dataset.png "Data-set Specifications OULP")
 
 - **Optimization Strategies**: Bayesian algorithms were explored to tune hyperparameters and enhance network performance.
 
@@ -33,7 +26,7 @@ Gait recognition is a promising avenue for identification and authentication due
 
  ![Gait Analysis6](images/OULP_Results.png "Proposed network training results on OULP dataset")
  
- ![Gait Analysis7](images/Performance.png "Hyper-parameter tuning using bayesian optimization")
+ ![Gait Analysis7](images/Performance.png "Comparison of our framework with state of art models")
  
 ## Future Directions
 - Overcoming Overfitting: Address potential overfitting issues due to limited variance and frames per subject in the OULP dataset.
