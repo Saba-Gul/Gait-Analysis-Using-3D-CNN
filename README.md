@@ -22,7 +22,9 @@ Gait recognition is a promising avenue for identification and authentication due
 ## Key Features
 - Robust Gait Recognition: The optimized 3D CNN and GEI effectively capture unique gait characteristics despite challenging covariates such as change in speed, viewpoint, clothing, and carrying accessories.
 - State-of-the-Art Results: Achieved state-of-the-art results on multi-views and multiple carrying conditions of subjects in the CASIA-B dataset.
-
+ ![Gait Analysis5](images/CASIAB_Results.png "Proposed network training results on CASIA-B dataset")
+ ![Gait Analysis6](images/OULP_Results.png "Proposed network training results on OULP dataset")
+ ![Gait Analysis7](images/Performance.png "Hyper-parameter tuning using bayesian optimization")
 ## Future Directions
 - Overcoming Overfitting: Address potential overfitting issues due to limited variance and frames per subject in the OULP dataset.
 - Genetic Optimization Algorithms: Explore genetic optimization algorithms to further enhance performance.
